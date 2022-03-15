@@ -1,7 +1,5 @@
 public class BasicWeek {
 
-public BasicWeek{
- 
  private String day_1 = "Monday";
      private  String day_2 = "Tuesday";
       private String day_3 = "Wednesday";

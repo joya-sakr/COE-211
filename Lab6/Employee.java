@@ -13,19 +13,19 @@ public class Employee {
 
       
 System.out.print("Please input the empoyee's first name: ");
-	FirstName = scan.nextLine();
+	firstName = scan.nextLine();
 System.out.println("Please input the employee's last name: ");
-	LastName = scan.nextLine();
+	lastName = scan.nextLine();
 System.out.println("Please input the employee's age: ");
-	Age = scan.nextInt();
+	age = scan.nextInt();
 System.out.println("Please input the employee's monthly salary: ");
-	MonthlySalary = scan.nextDouble();
+	salary = scan.nextDouble();
 
 
     }
 
     public String toString() {
-      String output "Employee information: " + emp.FirstName + " " + emp.LastName +  ", " + emp.Age + ", " + emp.MonthlySalary;
+      String output= "Employee information: " + firstName + " " + lastName +  ", " + age + ", " + salary;
 return output;
     }
 

@@ -1,6 +1,8 @@
 public class AdvancedWeek {
   
-public AdvancedWeek(
+
+
+
     private  String day_1 = "Monday";
         private   String day_2 = "Tuesday";
           private  String day_3 = "Wednesday";
