@@ -25,7 +25,7 @@ if(value<=4 && value>=1) {
             break;
             case 4:
             Employee emp =new Employee();
-            
+            System.out.println(emp);
             break;
 
     }
